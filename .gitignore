@@ -1,0 +1,8 @@
+logs/*
+!.gitkeep
+.metadata/*
+tmp
+RemoteSystemsTempFiles/*
+KenzanCustomerProject/target/*
+.DS_Store
+.recommenders/*
