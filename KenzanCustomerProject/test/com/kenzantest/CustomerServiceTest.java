@@ -180,7 +180,7 @@ public class CustomerServiceTest {
 		cr.setId(id);
 		cr.setName("Captain Hook");
 		cr.setEmail("hook@gmail.com");
-		cr.setTelephone("(123)456-7890");
+		cr.setTelephone("123-456-7890");
 		cr.setAddress(new Address("123 Main St.", "Neverland", "AK", "11001"));
 		return cr;
 	}
